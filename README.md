@@ -1,7 +1,9 @@
 # piplinecpu
 piplinecpu base on risc-v
 
-whu计组课设
+五级流水线
+
+whu计组课设，forwardunit解决数据冒险，hazardunit在第三周期解决控制冒险，
 
 
 to run this program, you also need inst-mem, data-mem and dm-controller
