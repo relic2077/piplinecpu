@@ -1,6 +1,8 @@
 # piplinecpu
 piplinecpu base on risc-v
 
+whu计组课设
+
 
 to run this program, you also need inst-mem, data-mem and dm-controller
 
