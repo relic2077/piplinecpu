@@ -9,9 +9,6 @@ whu计组课设，forwardunit解决数据冒险，hazardunit在第三周期解�
 to run this program, you also need inst-mem, data-mem and dm-controller
 
 
-创作不易请收藏
-
-
 已通过测试效果如下
 
 
